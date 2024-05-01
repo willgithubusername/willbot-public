@@ -110,6 +110,6 @@ async def verify(ctx, *args):
         await ctx.send("Wrong usage! See ``%verify``")
 
 
-make_directories()
+make_directories() ## reminder to remove this shit from the payload list!!!! *u retard* 
 
 bot.run(os.getenv(" bot token"))
